@@ -42,7 +42,7 @@ Este proyecto implementa un microservicio REST para gestionar universidades, uti
 spring.datasource.url=jdbc:postgresql://database:5432/universidades
 spring.datasource.username=postgres
 spring.datasource.password=postgres
-
+```
 ### Tarea 2: Dockerización
 
 FROM openjdk:21-jdk-slim
